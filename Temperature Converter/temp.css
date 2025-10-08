@@ -1,0 +1,16 @@
+.converter {
+  margin-top: 100px;
+}
+
+.buttons {
+  display: block;
+  margin-left: 250px;
+  font-weight: bold;
+  padding: 10px 30px;
+}
+
+#toValue {
+  background-color: #f8f9fa;
+  font-weight: bold;
+  text-align: center;
+}
