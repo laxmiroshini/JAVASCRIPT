@@ -1,0 +1,32 @@
+.cormorant-upright-light {
+  font-family: "Cormorant Upright", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+body 
+{
+    background-color: bisque;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+form 
+{
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    width: 350px;
+}  
+h2 
+{
+    text-align: center;
+    margin-bottom: 20px;
+    
+}
+.btn-right 
+{
+    display: flex;
+    margin-left: 75px;
+}
