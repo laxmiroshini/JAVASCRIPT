@@ -1,0 +1,21 @@
+.im-fell-english-sc-regular {
+  font-family: "IM Fell English SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body{
+  background-color: rgb(106, 189, 205);
+  /* background-image: url('./bgimage.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+#btn1 , #btn2 , #btn3 , #btn4 , #btn5 , #btn6 , #btn7 , #btn8 , #btn9 , #btn10 , #btn11 {
+  width: 150px;
+  height: 35px;
+  font-size: 16px;
+}
+table, th, td 
+{
+  text-align: center;
+  border: 2px solid black;
+}
